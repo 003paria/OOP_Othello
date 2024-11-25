@@ -20,21 +20,21 @@ This Othello game was developed using **Java** and follows the principles of **O
 ## Demo
 
 ### 1. Gameplay
-Players take turns placing their pieces on the board. If an invalid position is selected, they are prompted to retry.
+Players take turns placing their pieces on the board. If an invalid position is selected, they are prompted to retry. Please click on the thumbnail to view the YouTube video.
 
 [![Gameplay Demo](https://img.youtube.com/vi/opbUY4cIrc4/0.jpg)](https://youtu.be/opbUY4cIrc4)
 
 ---
 
 ### 2. Saving Functionality
-Save your game at any point to resume later.
+Save your game at any point to resume later. Please click on the thumbnail to view the YouTube video.
 
 [![Saving Demo](https://img.youtube.com/vi/Dufy1GqoQFg/0.jpg)](https://youtu.be/Dufy1GqoQFg)
 
 ---
 
 ### 3. Loading and Forfeit Restrictions
-Load a previously saved game. If a player attempts to forfeit with valid moves remaining, they are informed that forfeiting is not allowed.
+Load a previously saved game. If a player attempts to forfeit with valid moves remaining, they are informed that forfeiting is not allowed. Please click on the thumbnail to view the YouTube video.
 
 [![Loading and Forfeit Demo](https://img.youtube.com/vi/3h2x4-Cy1LQ/0.jpg)](https://youtu.be/3h2x4-Cy1LQ)
 
